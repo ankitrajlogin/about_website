@@ -50,3 +50,7 @@
 #clients img{
     height: 124px;
 }
+
+a:hover{
+    color:red;
+}
